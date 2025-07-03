@@ -10,9 +10,7 @@
   - Further Maths 
   - Maths 
   - Computer Science
-  - Chemistry 
 - 🛠️ Tools & Languages: `Python`, `C#`, `Java`, `Git`, `Markdown`, `Neovim`
-- 🧠 Supercurriculars: Project Euler | Obsidian Knowledge Graphs | Oxford Prep
 - 🏊 British Swimming Championships qualifier 
 
 ---
@@ -28,8 +26,7 @@
 
 ## 🧠 Featured Projects
 
-- 🎯 [`project-euler-solutions`](https://github.com/ed-cs-py/project-euler-solutions): Elegant mathematical problem-solving in Python.
-- 📊 [`revision-dashboard`](https://github.com/ed-cs-py/revision-dashboard): Markdown/Nvim-based terminal revision tracker (coming soon).
+- 🎯 [`project-euler-solutions`](https://github.com/ed-cs-py/project_euler_solutions): Elegant mathematical problem-solving in C#.
 
 ---
 
