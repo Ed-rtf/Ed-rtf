@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Edward
 
-🏊‍♂️ Backstroker chasing Olympic dreams | 📚 A-level CS student | 🧠 Future Computer Scientist
+🏊‍♂️ Backstroker | 📚 A-level CS student | 🧠 Future Computer Scientist
 
 ---
 
@@ -34,13 +34,12 @@
 
 - 📚 Custom Study tracker in the terminal
 - 🧠 Solving 50 Project Euler problems before summer
-- 📁 Documenting A-Level CS coursework project (details coming soon)(please help I have no idea of what to do)
 
 ---
 
 ## 📫 Connect With Me
 
-- Instagram: [@ed.cs.py](https://instagram.com/ed.cs.py)
+- Instagram: [@ed.cs.py](https://instagram.com/ed_ldev)
 - GitHub: [@ed-rtf](https://github.com/ed-cs-py)
 
 ---
