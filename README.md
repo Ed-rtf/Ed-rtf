@@ -1,14 +1,5 @@
 # 👋 Hey, I’m Edward
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ed-rtf&_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-rtf&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🎯 Currently Working On
 
 - 📚 Custom Study tracker in the terminal
