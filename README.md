@@ -1,32 +1,11 @@
 # 👋 Hey, I’m Edward
 
-🏊‍♂️ Backstroker | 📚 A-level CS student | 🧠 Future Computer Scientist
-
----
-
-## 🚀 About Me
-
-- 📘 A-Levels in:
-  - Further Maths 
-  - Maths 
-  - Computer Science
-- 🛠️ Tools & Languages: `Python`, `C#`, `Java`, `Git`, `Markdown`, `Neovim`
-- 🏊 British Swimming Championships qualifier 
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ed-rtf&_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-rtf&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🧠 Featured Projects
-
-- 🎯 [`project-euler-solutions`](https://github.com/ed-cs-py/project_euler_solutions): Elegant mathematical problem-solving in C#.
 
 ---
 
@@ -39,8 +18,7 @@
 
 ## 📫 Connect With Me
 
-- Instagram: [@ed.cs.py](https://instagram.com/ed_ldev)
-- GitHub: [@ed-rtf](https://github.com/ed-cs-py)
+- Instagram: [@edwardo_redshaw(https://instagram.com/edwardo_redshaw)
 
 ---
 
